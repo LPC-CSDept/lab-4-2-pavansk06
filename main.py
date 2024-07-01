@@ -4,7 +4,13 @@ def main():
     Code Your Program here
     ########################################
     """
-    total = 0
+    number = 0
+    for i in range(5):
+        number = number + int(input("enter a number:"))
+        
+    
+    total = number
+    print (total)
 
     ########################################
     # Do not delete the return statement
