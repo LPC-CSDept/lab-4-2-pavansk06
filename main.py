@@ -9,7 +9,7 @@ def main():
         number = number + int(input("enter a number:"))
         
     
-    total = i
+    total = number
     print (total)
 
     ########################################
